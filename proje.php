@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>s
 
 <?php
-echo "Helloq World!";asdsd
+echo "Helloq World!";
 ?>
 
 </body>
